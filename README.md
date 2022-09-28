@@ -22,11 +22,11 @@
     </a>
     </a>
     <a href="gabosr16@estudiantec.cr" target="_blank">
-        <img src="https://1000marcas.net/wp-content/uploads/2021/08/Outlook-Logo.png"width="40" height="40"
+        <img src="https://img.icons8.com/color/12x/microsoft-outlook-2019--v2.png"width="40" height="40"
             alt="Outlook Badge" />
     </a>
     <a href="https://www.instagram.com/santamix728/" target="_blank">
-        <img src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png"width="40" height="40"
+        <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png"width="40" height="40"
             alt="Instagram Badge" />
     </a>
 
