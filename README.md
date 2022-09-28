@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <hi align="center">Hi there 👋, I'm Josue Santamaria Ramirez</h1>    
+    <h1 align="center">Hi there 👋, I'm Josue Santamaria Ramirez</h1>    
     <h3 align="center">A student of Computer Engineering at Instituto Tecnológico de Costa Rica. A passionate about programming, 
                     I like to learn new technologies and keep updating my knowledge...</h3>
 </div>
@@ -31,7 +31,7 @@
 </div>
 
 <div align="Center">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>Frameworks, Languages, DataBase and Tools</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -40,11 +40,15 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
       </div>
       <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" **alt="Flask" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" **alt="C#" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="Xamarin" **alt="Xamarin" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
@@ -56,11 +60,28 @@
       </div>
 </div>
 
+<div align="Center">
+    <h3>Learning...</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"  title="GO" alt="GO" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" title="Neo4j" alt="Neo4j" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" title="Perk" alt="Perl" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+      </div>
+</div>
+
 ---
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+<div align="Center">
+    <h3>📊 My Stats</h3>
+    <div>
+        [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Santamix728&theme=dark&hide_border=true)](https://git.io/streak-stats)
+      </div>
+</div>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
 
