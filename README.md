@@ -8,15 +8,29 @@
 </div>
 
 <div id="badges" align="center">
+    <a href="https://twitter.com/SantaMix728" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/292px-Twitter-logo.svg.png"width="40" height="40"
+            alt="Twitter Badge" />
     </a>
-    <a href="https://cloudhq.net/s/0402ba8b244ee1" target="_blank">
+    <a href="https://www.linkedin.com/in/josu%C3%A9-santamar%C3%ADa-ram%C3%ADrez-6b8a49173/" target="_blank">
+        <img src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png"width="40" height="40"
+            alt="Linkedin Badge" />
+    </a>
+    <a href="jsantamariar.ce@gmail.com" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40"
             alt="Gmail Badge" />
     </a>
-    <a href="https://twitter.com/SantaMix728" target="_blank">
-        <img src="https://img.shields.io/twitter/url?color=blue&label=TwitterProfile&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FSantaMix728%3Ft%3Dn-yQAXnXspiPilTAIEokFQ%26s%3D09"
-            alt="Twitter Badge" />
     </a>
+    <a href="gabosr16@estudiantec.cr" target="_blank">
+        <img src="https://1000marcas.net/wp-content/uploads/2021/08/Outlook-Logo.png"width="40" height="40"
+            alt="Outlook Badge" />
+    </a>
+    <a href="https://www.instagram.com/santamix728/" target="_blank">
+        <img src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png"width="40" height="40"
+            alt="Instagram Badge" />
+    </a>
+
+
 </div>
 
 ---
