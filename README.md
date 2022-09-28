@@ -10,7 +10,7 @@
 <div id="badges" align="center">
     </a>
     <a href="https://cloudhq.net/s/0402ba8b244ee1" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40"
             alt="Gmail Badge" />
     </a>
     <a href="https://twitter.com/SantaMix728" target="_blank">
