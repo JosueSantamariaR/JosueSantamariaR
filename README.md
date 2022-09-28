@@ -75,13 +75,7 @@
 
 ### 📊 My Stats :
 
-<div align="Center">
-    <h3>📊 My Stats</h3>
-    <div>
-        [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Santamix728&theme=dark&hide_border=true)](https://git.io/streak-stats)
-      </div>
-</div>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Santamix728&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
 
