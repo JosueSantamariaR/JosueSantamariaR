@@ -9,9 +9,9 @@
 
 <div id="badges" align="center">
     </a>
-    <a href="https://www.youtube.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
+    <a href="https://cloudhq.net/s/0402ba8b244ee1" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
+            alt="Gmail Badge" />
     </a>
     <a href="https://twitter.com/SantaMix728" target="_blank">
         <img src="https://img.shields.io/twitter/url?color=blue&label=TwitterProfile&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FSantaMix728%3Ft%3Dn-yQAXnXspiPilTAIEokFQ%26s%3D09"
