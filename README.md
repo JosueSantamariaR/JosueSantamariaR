@@ -6,11 +6,11 @@
 
 <div id="badges" align="center">
     <a href="https://twitter.com/SantaMix728" target="_blank">
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/292px-Twitter-logo.svg.png](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit)"width="40" height="40"
+        <img src="(https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit)"width="40" height="40"
             alt="Twitter Badge" />
     </a>
     <a href="https://www.linkedin.com/in/josu%C3%A9-santamar%C3%ADa-ram%C3%ADrez-6b8a49173/" target="_blank">
-        <img src="[https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"width="40" height="40"
+        <img src="(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"width="40" height="40"
             alt="Linkedin Badge" />
     </a>
     <a href="jsantamariar.ce@gmail.com" target="_blank">
@@ -19,11 +19,11 @@
     </a>
     </a>
     <a href="gabosr16@estudiantec.cr" target="_blank">
-        <img src="[https://img.icons8.com/color/12x/microsoft-outlook-2019--v2.png](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)"width="40" height="40"
+        <img src="(https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)"width="40" height="40"
             alt="Outlook Badge" />
     </a>
     <a href="https://www.instagram.com/santamix728/" target="_blank">
-        <img src="[https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"width="40" height="40"
+        <img src="(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"width="40" height="40"
             alt="Instagram Badge" />
     </a>
 
